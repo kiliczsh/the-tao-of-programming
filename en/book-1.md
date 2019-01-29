@@ -4,7 +4,8 @@
 -----------------------------------------------------------------------
      Thus spake the master programmer:
 
-      "When you have learned to snatch the error code from the trap frame, it will be time for you to leave."
+      "When you have learned to snatch the error code from the trap frame, 
+      it will be time for you to leave."
 ----------------------------------------------------------------------
     1.1
 
