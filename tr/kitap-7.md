@@ -4,7 +4,8 @@
 
     Şöyle dedi usta programcı:
 
-    "Bir şirket yöneticisi için program demosu sunabilirsiniz ama onu bilgisayardan anlayan biri haline getiremezsiniz."
+    "Bir şirket yöneticisi için program demosu sunabilirsiniz ama onu bilgisayardan anlayan 
+    biri haline getiremezsiniz."
     
 ----
 

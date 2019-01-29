@@ -2,7 +2,8 @@
 -------------------------------
         Ve şöyle dedi usta programcı: 
 
-        "Sadece TCP/IP kullanarak uzaktaki makinanın işletim sistemini anlayabildiğinde tapınaktan ayrılmanın zamanı gelmiş demektir."
+        "Sadece TCP/IP kullanarak uzaktaki makinanın işletim sistemini anlayabildiğinde 
+        tapınaktan ayrılmanın zamanı gelmiş demektir."
 
 ---------------------------
 
